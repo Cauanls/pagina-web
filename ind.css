@@ -1,0 +1,89 @@
+.f{
+    background-color: #a1c2e7;
+}
+
+.titulo{
+    position: relative;
+    text-align: center;
+    background-color: #6c6ae6;
+    color: #808000;
+    height: 50px;
+    width: 1920px;
+}
+.links{
+    position: relative;
+    color: #ffeca1;
+    background-color: #7B68EE;
+    width: 1894px;
+    height: 180px;
+    top: 4px;
+    left: 3px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #363636;
+}
+
+.x{
+    position: relative;
+    text-align: center;
+    width: 1874px;
+    color: black;
+    height: 160px;
+    top: 10px;
+    left: 10px;
+    background-color: #f8f0aa;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.cab{
+    position: relative;
+    text-align: center;
+    width: 538px;
+    color: black;
+    height: 50px;
+    top: 5px;
+    left: 5px;
+    background-color: #f8f0aa;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px black;
+}
+
+.texto{
+    position: absolute;
+    background-color:#7B68EE;
+    text-align: center;
+    color: #ffeca1;
+    width: 550px;
+    height: 365px;
+    top: 870px;
+    left: 4px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #363636;
+}
+
+.utilizacao{
+    position: absolute;
+    background-color:#7B68EE;
+    color: #ffeca1;
+    text-align: center;
+    width: 550px;
+    height: 365px;
+    top: 870px;
+    left: 666px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #363636;
+}
+
+.vantagens{
+    position: absolute;
+    background-color:#7B68EE;
+    color: #ffeca1;
+    text-align: center;
+    width: 550px;
+    height: 365px;
+    top: 870px;
+    left: 1344px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #363636;
+}
+
